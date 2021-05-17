@@ -346,3 +346,7 @@ footer{
     border-radius: 10px;
     cursor: pointer;
 }
+.comments-container
+{
+    margin-top: 50px;
+}
